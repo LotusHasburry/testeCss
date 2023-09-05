@@ -1,0 +1,17 @@
+.emaSen input {
+    text-align: center;
+    position: fixed;
+    height: 26px;
+    left: 200px;
+}
+
+.email {
+    top: 400px;
+    
+}
+
+.senha {
+    top: 300px
+    
+    
+}
